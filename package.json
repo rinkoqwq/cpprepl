@@ -9,6 +9,7 @@
   "main": "dist/index.js",
   "dependencies": {
     "@types/lodash": "^4.14.144",
+    "cli-highlight": "^2.1.11",
     "detect-installed": "^2.0.4",
     "get-installed-path": "^4.0.8",
     "inquirer": "^8.0.0",
@@ -17,7 +18,7 @@
   },
   "devDependencies": {
     "@types/jest": "^24.0.18",
-    "@types/node": "^12.7.12",
+    "@types/node": "^12.20.4",
     "@types/yargs": "^13.0.3",
     "jest": "^24.9.0",
     "ts-jest": "^24.1.0",

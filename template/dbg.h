@@ -26,14 +26,7 @@ License (MIT):
 
 *****************************************************************************/
 #if (defined __GNUG__)
-#include <algorithm>
-#include <bitset>
-#include <cstdint>
-#include <iomanip>
-#include <iostream>
-#include <string>
-#include <type_traits>
-#include <vector>
+#include <bits/stdc++.h>
 using namespace std;
 namespace mgt {
 namespace pretty_function {
